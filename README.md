@@ -1,6 +1,6 @@
 # Hello there, I'm Simón Ortiz Gutiérrez
 
-<img src="Cabecera.PNG"/>
+<img src="SiwonDevFoto.png"/>
 
 <hr>
 
